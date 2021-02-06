@@ -1,0 +1,14 @@
+name: Warfare_Gulf
+version: 1.0-SNAPSHOT
+main: warfare.gulf.Main
+api-version: 1.12
+authors: [ LEADTV ]
+description: PLANET ISLAND, Warfare Gulf
+website: http://mcplanet.mcv.kr:81/
+
+commands:
+  걸프관리:
+    description: 워페어 걸프전 관리 명령어
+
+  걸프:
+    description: 워페어 걸프전 명령어
